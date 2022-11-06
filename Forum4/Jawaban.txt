@@ -1,0 +1,19 @@
+
+1. Apa saja tujuh operasi dasar komputer: 
+
+- Input, Membaca data atau menerima data
+- Output, Menampilkan hasil olahan data berupa informasi
+- Compute, Melakukan perhitungan aritmatika
+- Store, Memberikan nilai ke suatu identifier
+- Compare, Membandingkan dan memilih
+- Loop, Melakukan perulangan
+- Procedure dan atau Function
+
+2. Bagaimana algoritma adalah proses langkah -langkah menyelesaikan masalah komputer:
+caranya algoritma dapat memerintah (diproses) komputer, maka nanti diubah menjadi bentuk program (melalui proses pemrograman). berikut proses algoritma yang bisa digunakan :
+
+- Urutan logis pengambilan keputusan untuk memecahkan masalah pada komputer
+- Urutan langkah logis, berarti algoritma harus mengikuti suatu urutan tertentu, tidak boleh melompat-lompat.
+- Alur pemikiran dalam menyelesaikan suatu pekerjaan yang dituangkan secara tertulis.
+- Alur pikiran, yang artinya algoritma seseorang dapat berbeda dari algoritma orang lain.
+- Tertulis, yang artinya dapat berupa kalimat, gambar, atau tabel tertentu.

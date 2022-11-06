@@ -1,0 +1,33 @@
+Pemrograman terstruktur merupakan pola penyusunan  program  komputer hanya dengan menggunakan <ga struktur kontrol yaitu: 
+
+1.Sequence : Merupakan urutan pengerjaan dari perintah/statement pertama sampai dengan perintah/statement terakhir. Umumnya urutan pengerjaan dari perintah/statement mulai dari atas ke bawah dan dari kiri ke kanan. 
+
+Contoh Sequence yaitu :
+  - Cetak "Jumlah Mahasiswa"
+  - Set Jumlah to 49
+  - Cetak "Tambahan Mahasiswa Baru"
+  - Baca mhs_baru
+  - Jumlah = Jumlah + mhs_baru
+  - Cetak "Jumlah Mahasiswa"
+  - Cetak Jumlah
+
+2. Selection : Penggambaran sebuah kondisi dan pilihan diantara dua aksi. Statement pertama akan dikerjakan jika kondisi bernilai benar, jika tidak maka akan mengerjakan perinta setelah keyword "else" (jika ada).
+
+Contoh Selection : 
+  - IF Hari = 1 THEN
+  -     Cetak "Senin"
+  - ELSE
+  -     Cerak "Bukan Hari Senin"
+  - ENDIF
+
+3. Repetition : Beberapa statement/perintah dapat diulang dengan menggunakan struktur kontrol repetition. Statement/perintah akan tetap diulang selama kondisi perulangan memenuhi (jika menggunakan statement WHILE)
+
+Contoh Repetition :
+  - Bilangan = 1
+  - WHILE Bilangan < 5
+  -       Cetak Bintang
+  -       Bintang = Bintang + 1
+  - END
+
+
+

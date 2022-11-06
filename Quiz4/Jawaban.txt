@@ -1,0 +1,35 @@
+1. Aspek penting dalam algoritma: 
+
+a.   Finiteness : Algoritma harus berhenti setelah memenuhi semua langkah-langkah.
+b.  Definiteness : Setiap langkah harus didefinisikan secara jelas dan tepat tidak membingungkan.
+c.  Input : Sebuah algoritma memiliki nol atau lebih dari input yang diberikan kepada algoritma sebelum dijalankan.
+d. Output : Sebuah algoritma memiliki satu atau lebih output, yang biasanya tergantung pada input.
+e. Effectiveness : Setiap algoritma diharapkan memiliki sifat efektif.
+
+2. Algoritma tentukan bilangan terbesar, terkecil dan rata-rata dari 3 bilangan:
+a. Masukan bilangan A,B,C
+
+b. Jika A>B dan A>C Maka A bilangan terbesar
+c. Jika  B>A dan B>C Maka B bilangan terbesar
+d. Maka C bilangan terkecil
+e. rata-rata = (A+B+C)/3
+
+Pseudocode : 
+Judul : Menentukan_Bilangan_Terbesar_Terkecil_Dan_Menghitung_Rata_Rata
+
+Deskripsi:
+var bilangan : integer
+
+Implementasi
+read a, b, c
+if (a>b dan a>c) then
+   print "A bilangan terbesar"
+if (b>a dan b>c) then
+   print "B bilangan terbesar"
+if (c>a dan c>b) 
+   print "C bilangan terbesar"
+else
+   print "C bilangan terkecil"
+end if
+rata = (a+b+c)/3
+print rata

@@ -1,0 +1,19 @@
+
+1. Tahap pengembangan algoritma :
+Defenisi Masalah;
+Membuat Model;
+Rancangan Algoritma;
+Tulis Program;
+Compile;
+Run;
+Dokumentasi
+2. Analisis Algoritma
+
+Waktu Tempuh : 
+adalah satuan waktu yang ditempuh atau diperlukan oleh suatu algoritma dalam menyelesaikan suatu masalah.
+Hal-hal yang dapat mempengaruhi daripada waktu tempuh adalah:
+Banyak Langkah : Makin banyak langkah atau instruksi yang digunakan dalam menyelesaikan masalah, maka makin lama waktu tempuh yang dibutuhkan dalam proses tersebut.
+Besar dan Jenis input data : Besar dan jenis input data pada suatu algoritma akan sangat berpengaruh pada proses perhitugan yang terjadi.
+Jenis Operasi : Waktu tempuh juga dipengaruhi oleh jenis operasi yang digunakan. Jenis operasi tersebut meliputi operasi matematika, nalar atau logika, atau yang lainnya.
+Komputer dan Kompilator : Algoritma dibuat untuk mencapai waktu tempuh yang seefektif dan seefisien mungkin, tetapi kesemuanya itu akan sangat bergantung pada kemampuan komputer yang tentunya harus sesuai dengan jumlah program atau langkah yang diperlukan oleh algoritma.
+Jumlah Memori yang digunakan : banyaknya langkah yang digunakan dan jenis variabel data yang dipakai dalam suatu algoritma akan sangat mempengaruhi penggunaan memori. Dalm hal ini, diharapkan dapat memperkirakan seberapa banyak kebutuhan memori yang diperlukan selama proses berlangsung hingga proses selesai dikerjakan. Dengan demikian, dapat disiapkan storage yang memadai agar proses suatu algoritma berjalan tanpa ada hambatan atau kekurangan memori.
